@@ -2,6 +2,6 @@
 
 asmlinkage long sys_icarus(void)
 {
-	printk(“Flying to close to the sun\n”);
+	printk(“Flying too close to the sun\n”);
 	return 0;
 }
